@@ -107,3 +107,33 @@ h5{
    margin-left: 200px;
    margin-right: 200px;
 }
+.Thirdcontainer{
+    width: 50%;
+    height:170px;
+    margin-left: 400px;
+    margin-right:400px;
+    margin-bottom:200px;
+    margin-top:40px;
+    padding-top: 50px;
+    padding-bottom:20px;
+    text-align: center;
+    background-color:indianred;
+    border-radius: 0%;
+}
+.give-color{
+    background-color:navy;
+    color:white;
+}
+.design{
+    background-color: black;
+    text-align: center;
+    padding:40px;
+}
+.White{
+    color:beige;
+}
+.Merun{
+    color:coral;
+    font-size:20px;
+    font-family: 'Lobster', 'cursive','Poppins', sans-serif;
+}
